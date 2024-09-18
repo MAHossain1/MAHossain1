@@ -7,7 +7,8 @@
 Hi! I'm a passionate we developer with experience in building web applications using modern JavaScript frameworks like React and Node.js. I love exploring new technologies and creating efficient, scalable solutions. Currently working on admin dashboards and mobile apps. Always open to learning and collaboration!
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,html,css,json,postgresql,mysql,react,next,bootstrap,tailwind,express,git,docker,npm,yarn,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,prettier&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,html,css,json,postgresql,mysql&tools=git,docker,npm,yarn,firebase,vercel,redis,heroku,prettier&frameworks=react,next,bootstrap,tailwind,express,mongodb,wordpress,shopify,woocommerce,nodejs&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+
 
 
 🔭 I’m currently working on improving  and building new projects, including admin dashboards and mobile apps.
