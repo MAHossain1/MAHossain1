@@ -12,6 +12,9 @@ Hi! I'm a passionate we developer with experience in building web applications u
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAHossain1&layout=compact)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAHossain1&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 🔭 I’m currently working on improving  and building new projects, including admin dashboards and mobile apps.
