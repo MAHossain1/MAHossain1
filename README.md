@@ -1,6 +1,6 @@
-## Hi there 👋
 
-### Hi there 👋, my name is Arman Hossain
+
+## Hi there 👋, my name is Arman Hossain
 #### Developing robust, scalable applications with a passion for clean code and innovation.
 ![Developing robust, scalable applications with a passion for clean code and innovation.](https://i.ibb.co.com/Y2rVtrQ/github-header-image-2.png)
 
