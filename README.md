@@ -10,6 +10,9 @@ Hi! I'm a passionate we developer with experience in building web applications u
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,html,css,postgresql,mysql&tools=git,docker,npm,yarn,firebase,vercel,redis,heroku,prettier&frameworks=react,next,bootstrap,tailwind,express,mongodb,nodejs&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAHossain1&layout=compact)
+
+
 
 🔭 I’m currently working on improving  and building new projects, including admin dashboards and mobile apps.
 
