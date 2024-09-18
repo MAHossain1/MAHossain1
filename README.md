@@ -11,4 +11,6 @@ Skills: JS / REACT / NEXT / EXPRESS / HTML / CSS / NODE / MONGODB / postgreSQL
 
 🔭 I’m currently working on improving  and building new projects, including admin dashboards and mobile apps.
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,html,css,json,postgresql,mysql,markdown,vue,react,next,bootstrap,tailwind,express,git,docker,npm,yarn,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,prettier)](https://github.com/Jurredr/github-widgetbox)
+
 
