@@ -10,7 +10,7 @@ Hi! I'm a passionate web developer with experience in building web applications 
 <h2 align="center">Technologies I Work With</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,ts,js,nodejs,nextjs,react,redux,tailwind,express,mongodb,postgres,git,redis,netlify,vite,vercel,java&perline=5" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,ts,js,nodejs,nextjs,react,redux,tailwind,express,mongodb,postgres,prisma,git,redis,netlify,firebase,vite,vercel,java&perline=5" alt="Skill Icons" />
   </a>
 </p>
 
