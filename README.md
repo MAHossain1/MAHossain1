@@ -7,21 +7,24 @@
 Hi! I'm a passionate web developer with experience in building web applications using modern JavaScript frameworks like React and Node.js. I love exploring new technologies, creating efficient, scalable solutions, and working on admin dashboards and mobile apps. Always open to learning and collaboration!
 
 
+<h2 align="center">Technologies I Work With</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,ts,js,nodejs,nextjs,react,redux,tailwind,express,mongodb,postgres,git,redis,netlify,vite,vercel,java$perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,ts,js,nodejs,nextjs,react,redux,tailwind,express,mongodb,postgres,git,redis,netlify,vite,vercel,java&perline=5" alt="Skill Icons" />
   </a>
 </p>
 
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,html,css,postgresql,mysql&tools=git,docker,npm,yarn,vercel,redis,heroku&frameworks=react,next,bootstrap,tailwind,express,mongodb,nodejs&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
-
-
-<div align="center">
+<h2 align="center">GitHub Streak</h2>
+<p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=MAHossain1&theme=dark" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com/?user=MAHossain1&theme=dark" alt="GitHub Streak" />
   </a>
-</div>
+</p>
+
+<p align="center">
+  <em>Let's build something amazing together!</em>
+</p>
+
 
 
 
